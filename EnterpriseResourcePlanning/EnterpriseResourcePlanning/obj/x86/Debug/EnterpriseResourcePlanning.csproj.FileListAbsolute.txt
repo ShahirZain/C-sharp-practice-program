@@ -1,0 +1,23 @@
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\EnterpriseResourcePlanning\bin\Debug\EnterpriseResourcePlanning.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\EnterpriseResourcePlanning\bin\Debug\EnterpriseResourcePlanning.pdb
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.Form1.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.Properties.Resources.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\EnterpriseResourcePlanning.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\EnterpriseResourcePlanning.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.csprojResolveAssemblyReference.cache
+E:\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.exe
+E:\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.pdb
+E:\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\EnterpriseResourcePlanning.exe
+E:\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\bin\Debug\EnterpriseResourcePlanning.pdb
+E:\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.csprojResolveAssemblyReference.cache
+E:\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.Form1.resources
+E:\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.Properties.Resources.resources
+E:\Projects\EnterpriseResourcePlanning\EnterpriseResourcePlanning\obj\x86\Debug\EnterpriseResourcePlanning.csproj.GenerateResource.Cache

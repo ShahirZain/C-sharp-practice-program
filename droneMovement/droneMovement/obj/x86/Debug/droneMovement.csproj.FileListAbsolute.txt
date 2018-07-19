@@ -1,0 +1,16 @@
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\droneMovement\bin\Debug\droneMovement.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\droneMovement\bin\Debug\droneMovement.pdb
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\droneMovement\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\droneMovement\obj\x86\Debug\droneMovement.Form1.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\droneMovement\obj\x86\Debug\droneMovement.Properties.Resources.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\droneMovement\obj\x86\Debug\droneMovement.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\droneMovement\obj\x86\Debug\droneMovement.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\droneMovement\obj\x86\Debug\droneMovement.pdb
+E:\Projects\droneMovement\droneMovement\obj\x86\Debug\droneMovement.exe
+E:\Projects\droneMovement\droneMovement\obj\x86\Debug\droneMovement.pdb
+E:\Projects\droneMovement\droneMovement\bin\Debug\droneMovement.exe
+E:\Projects\droneMovement\droneMovement\bin\Debug\droneMovement.pdb
+E:\Projects\droneMovement\droneMovement\obj\x86\Debug\droneMovement.csprojResolveAssemblyReference.cache
+E:\Projects\droneMovement\droneMovement\obj\x86\Debug\droneMovement.Form1.resources
+E:\Projects\droneMovement\droneMovement\obj\x86\Debug\droneMovement.Properties.Resources.resources
+E:\Projects\droneMovement\droneMovement\obj\x86\Debug\droneMovement.csproj.GenerateResource.Cache

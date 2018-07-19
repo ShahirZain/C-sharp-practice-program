@@ -1,0 +1,9 @@
+E:\Projects\mondayAssignment\mondayAssignment\bin\Debug\mondayAssignment.exe
+E:\Projects\mondayAssignment\mondayAssignment\bin\Debug\mondayAssignment.pdb
+E:\Projects\mondayAssignment\mondayAssignment\obj\x86\Debug\mondayAssignment.csprojResolveAssemblyReference.cache
+E:\Projects\mondayAssignment\mondayAssignment\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projects\mondayAssignment\mondayAssignment\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Projects\mondayAssignment\mondayAssignment\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\mondayAssignment\mondayAssignment\obj\x86\Debug\mondayAssignment.csproj.GenerateResource.Cache
+E:\Projects\mondayAssignment\mondayAssignment\obj\x86\Debug\mondayAssignment.exe
+E:\Projects\mondayAssignment\mondayAssignment\obj\x86\Debug\mondayAssignment.pdb

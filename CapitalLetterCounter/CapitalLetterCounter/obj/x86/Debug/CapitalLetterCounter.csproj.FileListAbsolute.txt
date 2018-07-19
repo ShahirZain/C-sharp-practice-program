@@ -1,0 +1,16 @@
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\CapitalLetterCounter\CapitalLetterCounter\bin\Debug\CapitalLetterCounter.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\CapitalLetterCounter\CapitalLetterCounter\bin\Debug\CapitalLetterCounter.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.csprojResolveAssemblyReference.cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.pdb
+E:\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.exe
+E:\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.pdb
+E:\Projects\CapitalLetterCounter\CapitalLetterCounter\bin\Debug\CapitalLetterCounter.exe
+E:\Projects\CapitalLetterCounter\CapitalLetterCounter\bin\Debug\CapitalLetterCounter.pdb
+E:\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.csprojResolveAssemblyReference.cache
+E:\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.Form1.resources
+E:\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.Properties.Resources.resources
+E:\Projects\CapitalLetterCounter\CapitalLetterCounter\obj\x86\Debug\CapitalLetterCounter.csproj.GenerateResource.Cache

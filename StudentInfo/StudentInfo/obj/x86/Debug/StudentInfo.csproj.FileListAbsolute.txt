@@ -1,0 +1,26 @@
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\StudentInfo\obj\x86\Debug\StudentInfo.Form1.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\StudentInfo\obj\x86\Debug\StudentInfo.myConn.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\StudentInfo\obj\x86\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\StudentInfo\obj\x86\Debug\StudentInfo.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\StudentInfo\obj\x86\Debug\StudentInfo.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\StudentInfo\obj\x86\Debug\StudentInfo.pdb
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.exe
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.pdb
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.Form1.resources
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.myConn.resources
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+E:\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.exe
+E:\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.pdb
+E:\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+E:\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+E:\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+E:\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.Form1.resources
+E:\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.myConn.resources
+E:\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.Properties.Resources.resources
+E:\Projects\StudentInfo\StudentInfo\obj\x86\Debug\StudentInfo.csproj.GenerateResource.Cache

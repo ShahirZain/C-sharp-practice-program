@@ -1,0 +1,19 @@
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\bin\Debug\as.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\bin\Debug\as.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\obj\x86\Debug\as.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\obj\x86\Debug\as.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\as\as\obj\x86\Debug\as.pdb
+E:\Projects\as\as\obj\x86\Debug\as.exe
+E:\Projects\as\as\obj\x86\Debug\as.pdb
+E:\Projects\as\as\bin\Debug\as.exe
+E:\Projects\as\as\bin\Debug\as.pdb
+E:\Projects\as\as\obj\x86\Debug\as.csprojResolveAssemblyReference.cache
+E:\Projects\as\as\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projects\as\as\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Projects\as\as\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\Projects\as\as\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\as\as\obj\x86\Debug\as.csproj.GenerateResource.Cache

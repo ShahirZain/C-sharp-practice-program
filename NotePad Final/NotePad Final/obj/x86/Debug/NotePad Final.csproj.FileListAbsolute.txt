@@ -1,0 +1,26 @@
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\NotePad Final.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\bin\Debug\NotePad Final.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\bin\Debug\NotePad Final.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\NotePad Final.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\NotePad Final.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\NotePad Final.csprojResolveAssemblyReference.cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\bin\Debug\ksf\NotePad Final.resources.dll
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Form3.ksf.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\NotePad Final\NotePad Final\obj\x86\Debug\ksf\NotePad Final.resources.dll
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\NotePad Final.exe
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\NotePad Final.pdb
+E:\Projects\NotePad Final\NotePad Final\bin\Debug\NotePad Final.exe
+E:\Projects\NotePad Final\NotePad Final\bin\Debug\NotePad Final.pdb
+E:\Projects\NotePad Final\NotePad Final\bin\Debug\ksf\NotePad Final.resources.dll
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\NotePad Final.csprojResolveAssemblyReference.cache
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\WindowsFormsApplication1.Form3.ksf.resources
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\NotePad Final.csproj.GenerateResource.Cache
+E:\Projects\NotePad Final\NotePad Final\obj\x86\Debug\ksf\NotePad Final.resources.dll

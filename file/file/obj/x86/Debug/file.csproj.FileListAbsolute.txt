@@ -1,0 +1,16 @@
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\file\file\bin\Debug\file.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\file\file\bin\Debug\file.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\file\file\obj\x86\Debug\file.csprojResolveAssemblyReference.cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\file\file\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\file\file\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\file\file\obj\x86\Debug\file.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\file\file\obj\x86\Debug\file.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\file\file\obj\x86\Debug\file.pdb
+E:\Projects\file\file\obj\x86\Debug\file.exe
+E:\Projects\file\file\obj\x86\Debug\file.pdb
+E:\Projects\file\file\bin\Debug\file.exe
+E:\Projects\file\file\bin\Debug\file.pdb
+E:\Projects\file\file\obj\x86\Debug\file.csprojResolveAssemblyReference.cache
+E:\Projects\file\file\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projects\file\file\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\file\file\obj\x86\Debug\file.csproj.GenerateResource.Cache

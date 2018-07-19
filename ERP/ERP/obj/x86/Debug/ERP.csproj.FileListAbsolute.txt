@@ -1,0 +1,29 @@
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\ERP\bin\Debug\ERP.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\ERP\bin\Debug\ERP.pdb
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\ERP\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.Form1.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.Customer.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\ERP\ERP\obj\x86\Debug\ERP.myConn.resources
+E:\Projects\ERP\ERP\obj\x86\Debug\ERP.exe
+E:\Projects\ERP\ERP\obj\x86\Debug\ERP.pdb
+E:\Projects\ERP\ERP\bin\Debug\ERP.exe
+E:\Projects\ERP\ERP\bin\Debug\ERP.pdb
+E:\Projects\ERP\ERP\obj\x86\Debug\ERP.csprojResolveAssemblyReference.cache
+E:\Projects\ERP\ERP\obj\x86\Debug\ERP.Customer.resources
+E:\Projects\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+E:\Projects\ERP\ERP\obj\x86\Debug\ERP.myConn.resources
+E:\Projects\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+E:\Projects\ERP\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache

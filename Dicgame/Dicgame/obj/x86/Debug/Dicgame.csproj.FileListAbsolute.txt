@@ -1,0 +1,26 @@
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\bin\Debug\Dicgame.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\bin\Debug\Dicgame.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.csprojResolveAssemblyReference.cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.csproj.ResolveComReference.cache
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\Interop.WMPLib.dll
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.csproj.ResolveComReference.cache
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.exe
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.pdb
+E:\Projects\Dicgame\Dicgame\bin\Debug\Dicgame.exe
+E:\Projects\Dicgame\Dicgame\bin\Debug\Dicgame.pdb
+E:\Projects\Dicgame\Dicgame\bin\Debug\Interop.WMPLib.dll
+E:\Projects\Dicgame\Dicgame\bin\Debug\AxInterop.WMPLib.dll
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.csprojResolveAssemblyReference.cache
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\Dicgame\Dicgame\obj\x86\Debug\Dicgame.csproj.GenerateResource.Cache

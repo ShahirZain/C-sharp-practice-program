@@ -1,0 +1,14 @@
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\FileWrite\bin\Debug\FileWrite.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\FileWrite\bin\Debug\FileWrite.pdb
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\FileWrite\obj\x86\Debug\FileWrite.Form1.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\FileWrite\obj\x86\Debug\FileWrite.Properties.Resources.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\FileWrite\obj\x86\Debug\FileWrite.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\FileWrite\obj\x86\Debug\FileWrite.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\FileWrite\obj\x86\Debug\FileWrite.pdb
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\FileWrite\FileWrite\obj\x86\Debug\FileWrite.exe
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\FileWrite\FileWrite\obj\x86\Debug\FileWrite.pdb
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\FileWrite\FileWrite\bin\Debug\FileWrite.exe
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\FileWrite\FileWrite\bin\Debug\FileWrite.pdb
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\FileWrite\FileWrite\obj\x86\Debug\FileWrite.Form1.resources
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\FileWrite\FileWrite\obj\x86\Debug\FileWrite.Properties.Resources.resources
+C:\Users\Shahir Zain\Documents\Visual Studio 2010\Projects\FileWrite\FileWrite\obj\x86\Debug\FileWrite.csproj.GenerateResource.Cache

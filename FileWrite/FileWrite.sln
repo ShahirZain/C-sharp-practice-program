@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWrite", "FileWrite\FileWrite.csproj", "{6AC9E2B5-470F-48DF-9223-2710B38130EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC9E2B5-470F-48DF-9223-2710B38130EA}.Debug|x86.ActiveCfg = Debug|x86
+		{6AC9E2B5-470F-48DF-9223-2710B38130EA}.Debug|x86.Build.0 = Debug|x86
+		{6AC9E2B5-470F-48DF-9223-2710B38130EA}.Release|x86.ActiveCfg = Release|x86
+		{6AC9E2B5-470F-48DF-9223-2710B38130EA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

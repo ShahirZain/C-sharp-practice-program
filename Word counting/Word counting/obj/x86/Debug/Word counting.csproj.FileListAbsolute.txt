@@ -1,0 +1,7 @@
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\Word counting\bin\Debug\Word counting.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\Word counting\bin\Debug\Word counting.pdb
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\Word counting\obj\x86\Debug\Word_counting.Form1.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\Word counting\obj\x86\Debug\Word_counting.Properties.Resources.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\Word counting\obj\x86\Debug\Word counting.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\Word counting\obj\x86\Debug\Word counting.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\Word counting\obj\x86\Debug\Word counting.pdb

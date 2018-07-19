@@ -1,0 +1,22 @@
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\COMPAREFile\bin\Debug\COMPAREFile.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\COMPAREFile\bin\Debug\COMPAREFile.pdb
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\COMPAREFile\obj\x86\Debug\COMPAREFile.Form1.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\COMPAREFile\obj\x86\Debug\COMPAREFile.Properties.Resources.resources
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\COMPAREFile\obj\x86\Debug\COMPAREFile.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\COMPAREFile\obj\x86\Debug\COMPAREFile.exe
+C:\Users\Shahir Zain\AppData\Local\Temporary Projects\COMPAREFile\obj\x86\Debug\COMPAREFile.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\COMPAREFile\COMPAREFile\bin\Debug\COMPAREFile.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\COMPAREFile\COMPAREFile\bin\Debug\COMPAREFile.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.csproj.GenerateResource.Cache
+E:\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.exe
+E:\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.pdb
+E:\Projects\COMPAREFile\COMPAREFile\bin\Debug\COMPAREFile.exe
+E:\Projects\COMPAREFile\COMPAREFile\bin\Debug\COMPAREFile.pdb
+E:\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.csprojResolveAssemblyReference.cache
+E:\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.Form1.resources
+E:\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.Properties.Resources.resources
+E:\Projects\COMPAREFile\COMPAREFile\obj\x86\Debug\COMPAREFile.csproj.GenerateResource.Cache

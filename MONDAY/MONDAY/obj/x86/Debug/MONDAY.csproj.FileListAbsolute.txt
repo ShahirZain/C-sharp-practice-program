@@ -1,0 +1,17 @@
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\MONDAY\MONDAY\bin\Debug\MONDAY.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\MONDAY\MONDAY\bin\Debug\MONDAY.pdb
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\MONDAY\MONDAY\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\MONDAY\MONDAY\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\MONDAY\MONDAY\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\MONDAY\MONDAY\obj\x86\Debug\MONDAY.csproj.GenerateResource.Cache
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\MONDAY\MONDAY\obj\x86\Debug\MONDAY.exe
+C:\Users\Shahir Zain\documents\visual studio 2010\Projects\MONDAY\MONDAY\obj\x86\Debug\MONDAY.pdb
+E:\Projects\MONDAY\MONDAY\obj\x86\Debug\MONDAY.exe
+E:\Projects\MONDAY\MONDAY\obj\x86\Debug\MONDAY.pdb
+E:\Projects\MONDAY\MONDAY\bin\Debug\MONDAY.exe
+E:\Projects\MONDAY\MONDAY\bin\Debug\MONDAY.pdb
+E:\Projects\MONDAY\MONDAY\obj\x86\Debug\MONDAY.csprojResolveAssemblyReference.cache
+E:\Projects\MONDAY\MONDAY\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projects\MONDAY\MONDAY\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Projects\MONDAY\MONDAY\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\MONDAY\MONDAY\obj\x86\Debug\MONDAY.csproj.GenerateResource.Cache
